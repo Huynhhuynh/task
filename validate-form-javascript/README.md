@@ -19,6 +19,7 @@ $ npm install -g dev-web-server
 #### Start
 ```
 # install dependencies
+$ git clone https://github.com/Huynhhuynh/task.git
 $ cd task/validate-form-javascript
 $ npm install
 
