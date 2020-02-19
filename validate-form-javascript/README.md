@@ -25,6 +25,11 @@ $ npm install
 
 # serve with hot reload at localhost:3333
 $ npm run dev
+
+# or
+$ sass src/theme.scss:dist/theme.css --style compressed --watch
+# and new other a terminal
+$ dev-web-server
 ```
 
 #### Stop
